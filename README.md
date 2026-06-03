@@ -1,0 +1,1 @@
+This repository contains the implementation of TS-Hybrid++, a temporal customer analytics framework that combines behavioural state modelling, Markov transitions, machine learning, explainability, and purchase propensity prediction.
